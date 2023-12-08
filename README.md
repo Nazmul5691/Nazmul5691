@@ -3,6 +3,8 @@
 
 ### Hi I'm Nazmul
 
+<p>"I am a frontend developer weaving digital magic with HTML, CSS, and JavaScript. Obsessed with user-friendly design and embracing the latest tech trends. Let's code the future together!"</p>
+
 ---
 
 ![Profile views](https://komarev.com/ghpvc/?username=Nazmul5691&color=green)
