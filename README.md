@@ -13,8 +13,8 @@
 
 
 - 🔭 I’m currently working on [Online Study Group](https://fragile-quartz.surge.sh/)
-- 🌱 I’m currently learning **Next.js**.
-- 💬 Ask me anything about **React**—I'm here to help!
+- 🌱 I’m currently learning [Next.js](https://nextjs.org/)
+- 💬 Ask me anything about [React](https://react.dev/)—I'm here to help!
 - 📫 How to reach me: [nazmulislam5691@gmail.com](mailto:nazmulislam5691@gmail.com)
 
 Let's build something awesome together! 🚀
