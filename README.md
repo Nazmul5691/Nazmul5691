@@ -22,8 +22,12 @@ Let's build something awesome together! 🚀
 
 ### Connect with me:
 
-- GitHub: [Nazmul5691](https://github.com/Nazmul5691)
-- LinkedIn: [nazmulIslam](https://www.linkedin.com/in/md-nazmul-islam-36826b2a4/)
-- Twitter: [Nazmul Islam
-](https://twitter.com/NazmulIslam5691)
+
+### Connect with me:
+
+[<img src="https://raw.githubusercontent.com/Nazmul5691/Nazmul5691/main/assets/linkedin.png" alt="LinkedIn" width="30" height="30">](https://www.linkedin.com/in/md-nazmul-islam-36826b2a4/)
+[<img src="https://raw.githubusercontent.com/Nazmul5691/Nazmul5691/main/assets/twittr.jpg" alt="Twitter" width="30" height="30">](https://twitter.com/NazmulIslam5691)
+[<img src="https://raw.githubusercontent.com/Nazmul5691/Nazmul5691/main/assets/instragram.jpg" alt="Instagram" width="30" height="30">](https://www.instagram.com/md.nazmulislam8/?next=%2F)
+
+
 
