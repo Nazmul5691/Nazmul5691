@@ -48,7 +48,16 @@ Let's build something awesome together! 🚀
 </p>
 
 
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=Nazmul5691&theme=transparent)](https://git.io/streak-stats)
+📈 Current Stats
+---
+
+
+ 
+  [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=Nazmul5691&theme=transparent)](https://git.io/streak-stats)
+
+
+
+
 
 
 
