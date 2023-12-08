@@ -1,5 +1,5 @@
 
-
+![The San Juan Mountains are beautiful!](/assets/images/github.jpg"San Juan Mountains")
 
 
 
