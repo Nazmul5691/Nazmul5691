@@ -24,5 +24,6 @@ Let's build something awesome together! 🚀
 
 - GitHub: [Nazmul5691](https://github.com/Nazmul5691)
 - LinkedIn: [nazmulIslam](https://www.linkedin.com/in/md-nazmul-islam-36826b2a4/)
-- Twitter: [shahreyar_tonmoy](https://twitter.com/shahreyar_tonmoy)
+- Twitter: [Nazmul Islam
+](https://twitter.com/NazmulIslam5691)
 
