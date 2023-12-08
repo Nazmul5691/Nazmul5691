@@ -24,7 +24,7 @@ Let's build something awesome together! 🚀
 [<img src="https://raw.githubusercontent.com/Nazmul5691/Nazmul5691/main/assets/instragram.jpg" alt="Instagram" width="50" height="50">](https://www.instagram.com/md.nazmulislam8/?next=%2F)
 <br><br>
 
-💻 Technologies that I know
+💻 Technologies 
 ---
 
 <p align="center">
