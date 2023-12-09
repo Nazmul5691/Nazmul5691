@@ -56,7 +56,7 @@ Top Languages
 ![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Nazmul5691&theme=city_lights)
 
 
-Commit Stats
+Commits Stats
 ---
 
 
