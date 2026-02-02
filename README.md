@@ -73,31 +73,25 @@
 
 <br/>
 
-
 ![Profile views](https://komarev.com/ghpvc/?username=Nazmul5691&color=green)
-
 
 <br>
 
 
 📈 Current Stats
----
 
   [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=Nazmul5691&theme=transparent)](https://git.io/streak-stats)
 
+<br/>
 
-Top Languages
----
+### Top Languages
+![Top Languages](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Nazmul5691&theme=city_lights)
 
+<br/>
 
-![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Nazmul5691&theme=city_lights)
+### Commits Stats
+![Commits Stats](https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Nazmul5691&theme=city_lights&utcOffset=6)
 
-
-Commits Stats
----
-
-
-![](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Nazmul5691&theme=apprentice&utcOffset=8)
 
 
 
