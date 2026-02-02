@@ -77,6 +77,10 @@
 
 <br>
 
+### GitHub Statistics:
+| <a><img align="center" src="https://github-readme-stats.vercel.app/api?username=Nazmul5691&theme=swift&hide_border=true&include_all_commits=false&count_private=false" /></a> | <a><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Nazmul5691&theme=swift&hide_border=true&include_all_commits=false&count_private=false&layout=compact" /></a> |
+| ------------- | ------------- |
+
 
 📈 Current Stats
 
@@ -84,13 +88,6 @@
 
 <br/>
 
-### Top Languages
-![Top Languages](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Nazmul5691&theme=city_lights)
-
-<br/>
-
-### Commits Stats
-![Commits Stats](https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Nazmul5691&theme=city_lights&utcOffset=6)
 
 
 
