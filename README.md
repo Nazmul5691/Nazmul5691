@@ -52,20 +52,21 @@
 
 ### CSS Frameworks & Libraries
 [![CSS](https://skillicons.dev/icons?i=tailwind)](https://github.com/Nazmul5691)
-![daisyUI](https://img.shields.io/badge/daisyUI-5A0EF8?style=flat&logo=daisyui&logoColor=white)
-![shadcn/ui](https://img.shields.io/badge/shadcn/ui-000000?style=flat&logo=shadcnui&logoColor=white)
+![daisyUI](https://img.shields.io/badge/daisyUI-5A0EF8?style=for-the-badge&logo=daisyui&logoColor=white)
+![shadcn/ui](https://img.shields.io/badge/shadcn/ui-000000?style=for-the-badge&logo=shadcnui&logoColor=white)
 
 ### JavaScript Frameworks & Libraries:
 [![JavaScript Frameworks & Libraries](https://skillicons.dev/icons?i=react,next,redux,nodejs,express)](https://github.com/Nazmul5691)
 
 ### Database & Model:
-[![Database & Model](https://skillicons.dev/icons?i=mongodb,mongoose,mysql,postgres,prisma)](https://github.com/Nazmul5691)
+[![Database & Model](https://skillicons.dev/icons?i=mongodb,mysql,postgres,prisma)](https://github.com/Nazmul5691)
 
 ### Deployment Platform:
-[![Deployment Platform](https://skillicons.dev/icons?i=vercel,netlify,firebase,render)](https://github.com/Nazmul5691
+[![Deployment Platform](https://skillicons.dev/icons?i=vercel,netlify,firebase,render)](https://github.com/Nazmul5691)
 
 ### Design & Graphics:
-[![Design & Graphics](https://skillicons.dev/icons?i=figma,canva)](https://github.com/Nazmul5691)
+[![Design & Graphics](https://skillicons.dev/icons?i=figma)](https://github.com/Nazmul5691)
+![Canva](https://img.shields.io/badge/Canva-00C4CC?style=for-the-badge&logo=canva&logoColor=white)
 
 ### Tools & Technologies:
 [![Tools & Technologies](https://skillicons.dev/icons?i=windows,notion,git,github,vscode,postman)](https://github.com/Nazmul5691)
