@@ -26,7 +26,7 @@
 - 💬 Ask me about **Full-Stack (React, Next, Node, Express, MongoDB, PostgreSQL)**.
 - 🌐 Explore My Portfolio **[Md Nazmul Islam](https://nazmul-islam-eng.vercel.app/)** and My **[Resume](https://nazmul-islam-eng.vercel.app/)**
 - 📝 Connect with me on **[LinkedIn](https://linkedin.com/in/nazmul-islam-eng)**
-- 📫 Feel free to reach me out **[Email](nazmulislam@gmail.com)**
+- 📫 Feel free to reach me out **[Email](nazmulislam5691@gmail.com)**
   
 <br/>
 
