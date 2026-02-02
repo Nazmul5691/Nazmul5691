@@ -24,7 +24,7 @@
 - 🗄️ Using **Node.js, Express.js, MongoDB, Mongoose, PostgreSQL, and Prisma** for the backend.
 - 🛠️ I’m currently learning **React Native, GraphQL, Docker and AWS**.
 - 💬 Ask me about **Full-Stack (React, Next, Node, Express, MongoDB, PostgreSQL)**.
-- 🌐 Explore My Portfolio **[nazmul-islam-eng](https://nazmul-islam-eng.vercel.app/)** and My **[Resume](https://nazmul-islam-eng.vercel.app/)**
+- 🌐 Explore My Portfolio **[Md Nazmul Islam](https://nazmul-islam-eng.vercel.app/)** and My **[Resume](https://nazmul-islam-eng.vercel.app/)**
 - 📝 Connect with me on **[LinkedIn](https://linkedin.com/in/nazmul-islam-eng)**
 - 📫 Feel free to reach me out **[Email](nazmulislam@gmail.com)**
   
