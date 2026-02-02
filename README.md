@@ -80,8 +80,7 @@
 
 ### GitHub Statistics
 
-| ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Nazmul5691&theme=swift&hide_border=true) | ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Nazmul5691&theme=swift&hide_border=true&layout=compact) |
-| --- | --- |
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Nazmul5691&theme=swift&hide_border=true&layout=compact)
 
 
 
