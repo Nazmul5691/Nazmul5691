@@ -50,10 +50,10 @@
 ### Languages:
 [![Languages](https://skillicons.dev/icons?i=html,css,javascript,typescript)](https://github.com/Nazmul5691)
 
-### CSS Frameworks & Libraries:
+### CSS Frameworks & Libraries
 [![CSS](https://skillicons.dev/icons?i=tailwind)](https://github.com/Nazmul5691)
-![daisyUI](https://img.shields.io/badge/daisyUI-5A0EF8?style=for-the-badge&logo=daisyui&logoColor=white)
-![shadcn/ui](https://img.shields.io/badge/shadcn/ui-000000?style=for-the-badge&logo=shadcnui&logoColor=white)
+![daisyUI](https://img.shields.io/badge/daisyUI-5A0EF8?style=flat&logo=daisyui&logoColor=white)
+![shadcn/ui](https://img.shields.io/badge/shadcn/ui-000000?style=flat&logo=shadcnui&logoColor=white)
 
 ### JavaScript Frameworks & Libraries:
 [![JavaScript Frameworks & Libraries](https://skillicons.dev/icons?i=react,next,redux,nodejs,express)](https://github.com/Nazmul5691)
